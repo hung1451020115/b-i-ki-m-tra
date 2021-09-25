@@ -1,0 +1,18 @@
+
+Git init
+Được sử dụng để tạo, khởi tạo một kho chứa git mới. khi đang trong thư mục dự án chạy lệnh git init nó sẽ tạo ra một thư mục ẩn tên .git, thư mục này chứa tất cả thông tin mô tả cho kho chứa dự án
+
+Git pull
+Được dùng để tải xuống dữ liệu từ một remote tepository và cập nhật local repository phù hợp với dữ liệu đó
+
+Git add
+Lệnh git add sử dụng để đánh chỉ mục (index) các nội dung mới, mới cập nhật trong thư mục làm việc, nó chuẩn bị nội dung sắp xếp cho lần commit tiếp theo.
+
+Git commit
+Git Commit là một lệnh cam kết trong Git, được dùng để lưu lại những thay đổi trong repository
+
+Git push
+Lệnh git push được sử dụng để đẩy các commit mới ở máy trạm (local repo) lên server (remote repo).
+
+Git status
+Để check trạng thái của những file bạn đã thay đổi trong thư mục làm việc. VD: Tất cả các thay đổi cuối cùng từ lần commit cuối cùng.
